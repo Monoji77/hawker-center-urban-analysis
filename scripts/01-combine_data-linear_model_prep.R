@@ -155,7 +155,6 @@ plot(lm3)
 # lm2 <- lm(avg_distance_to_hawker ~ ., joined_data_dummy_2)
 # summary(lm2)
 # plot(lm2, 1)
-jhello world
 # 
 # # library(MASS)
 # # boxcox_result <- boxcox(lm2)
